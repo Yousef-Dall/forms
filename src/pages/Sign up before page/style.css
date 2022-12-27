@@ -1,0 +1,12 @@
+.before{
+    display: flex;
+    gap: 70px;
+}
+
+.firstcon{
+    box-shadow: inset 0 0 0 1000px #1566d8ce;
+    
+    background-image: url('/src/imgs/Rectangle.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
