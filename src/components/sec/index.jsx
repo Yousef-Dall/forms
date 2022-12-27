@@ -7,7 +7,7 @@ import "./style.css"
 export default class Secc extends Component {
   render() {
     return (
-      <div>
+      <div className='secc'>
         <Reg regh = "Join the game!" regp = "Go inside the best gamers social network!"/>
         <div className='sms'>
             <Smbtn btnimg = "./imgs/download.png"/>
@@ -20,6 +20,8 @@ export default class Secc extends Component {
         <Pinput />
 
         <button className='regacc'>Login</button>
+
+        <p>don't have an account? <a href="#">Register</a></p>
 
 
       </div>

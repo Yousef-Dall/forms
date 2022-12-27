@@ -3,4 +3,6 @@
 .logo{
     font-family: 'Righteous', cursive;
     color: #1565D8;
+    display: flex;
+    font-size: 72px;
 }
