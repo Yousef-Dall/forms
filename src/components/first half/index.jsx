@@ -15,7 +15,7 @@ export default class First extends Component {
             <figcaption>{this.props.auth}</figcaption>
         </figure>
 
-        <img src={this.props.ndlnk} alt="" />
+        <img className='nd' src={this.props.ndlnk} alt="" />
       </div>
       </div>
     )
