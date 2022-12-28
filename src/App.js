@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Before from './pages/Sign up before page';
-import After from './pages/Sign up after page';
+import Before from './pages/Sign up';
+import After from './pages/sign in';
 
 function App() {
   return (
     <div className="App">
-      {/* <Before /> */}
-      <After />
+      <Before />
+      {/* <After /> */}
     </div>
   );
 }
