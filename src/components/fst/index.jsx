@@ -10,7 +10,12 @@ export default class Fst extends Component {
             <p>Gamers</p>
         </div>
 
-        <First quote = "I always observe the people who pass by when I ride an escalator. I'll never see most of them again, so I imagine a lot of things about their lives... about the day ahead of them." auth = "Hideo Kojima" ndlnk = "./imgs/superscene-34-joystick_trans 1.png"/>
+        <div className="fcon">
+
+        <First quote = "I always observe the people who pass by when I ride an escalator. I'll never see most of them again, so I imagine a lot of things about their lives... about the day ahead of them." auth = "Hideo Kojima" ndlnk = ""/>
+        <img className='ndtwo' src="./imgs/superscene-34-joystick_trans 1.png" alt="" />
+
+        </div>
         
       </div>
     )

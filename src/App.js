@@ -6,8 +6,8 @@ import After from './pages/sign in';
 function App() {
   return (
     <div className="App">
-      <Before />
-      {/* <After /> */}
+      {/* <Before /> */}
+      <After />
     </div>
   );
 }

@@ -9,7 +9,8 @@ export default class Before extends Component {
       <div className='before'>
         <div className='firstcon'>
 
-        <First imglnk = "./imgs/Group 3.png" quote = "I always observe the people who pass by when I ride an escalator. I'll never see most of them again, so I imagine a lot of things about their lives... about the day ahead of them." auth = "Hideo Kojima" ndlnk = "./imgs/Vector 1.png"/>
+        <First imglnk = "../imgs/Group 3.png"/>
+        <img className='ndone' src="./imgs/Vector 1.png" alt="" />
         </div>
         <Sec />
       </div>

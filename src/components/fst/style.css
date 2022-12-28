@@ -9,4 +9,17 @@
 
 .fst{
     padding: 30px;
+    height: 30vh;
+}
+
+.ndtwo{
+    top: 30rem;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    left: 20rem;
+}
+
+.first{
+    height: 50vh;
 }
