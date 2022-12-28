@@ -9,15 +9,15 @@
 
 .fst{
     padding: 30px;
-    height: 30vh;
+    height: 100vh;
 }
 
 .ndtwo{
-    top: 30rem;
     position: absolute;
-    height: 200px;
-    width: 200px;
-    left: 20rem;
+    width: 336px;
+    height: 418px;
+    left: 351px;
+    top: 509px;
 }
 
 .first{
