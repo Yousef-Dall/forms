@@ -6,11 +6,13 @@ export default class First extends Component {
     return (
         <div className='blas'>
       <div className='first'>
+        <div className='flogo'>
         <img src={this.props.imglnk} alt="" />
         <p>Gamers</p>
-        <figure>
+        </div>
+        <figure className='qq'>
             <blockquote>
-                “<br/>{this.props.quote}
+            <span className='mark'>“</span><br/>{this.props.quote}
             </blockquote>
             <figcaption>{this.props.auth}</figcaption>
         </figure>
