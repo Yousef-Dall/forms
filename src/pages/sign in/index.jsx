@@ -4,7 +4,7 @@ import Fst from '../../components/fst'
 import "./style.css"
 import Secc from '../../components/sec'
 
-export default class After extends Component {
+export default class Signin extends Component {
   render() {
     return (
       <div className='after'>
