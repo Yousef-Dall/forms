@@ -13,3 +13,9 @@
 
     background-repeat: no-repeat;
 }
+
+.ndone{
+    position: relative;
+    left: 30rem;
+    top: 9rem;
+}
